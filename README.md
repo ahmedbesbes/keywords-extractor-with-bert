@@ -1,4 +1,4 @@
-### How to extract meaningful and semantic keywords using BERT and Streamlit
+# How to extract meaningful and semantic keywords using BERT and Streamlit
 
 This small Streamlit app uses **KeyBert** to extract meaningful keywords from text documents.
 
